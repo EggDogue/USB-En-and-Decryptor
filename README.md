@@ -62,6 +62,6 @@ explorer .
 ```
 Now you can copy and paste this executable onto your desktop or paste it into your autostart through:
 ```
-C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+cd C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 explorer .
 ```
